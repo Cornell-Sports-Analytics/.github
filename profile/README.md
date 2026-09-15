@@ -1,12 +1,9 @@
-## Hi there 👋
+# Cornell Sports Analytics
 
-<!--
+Cornell Sports Analytics provides a forum for students to collaborate on projects in the field of sports analytics. 
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is a GitHub organization page that contains repositories for **new member education** and a **toolkit that containing a collection of sports analytics datasets/libraries**.
+
+
